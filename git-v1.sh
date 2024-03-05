@@ -11,7 +11,7 @@
 #
 ##################################################################################################################
 
-# echo "# Ultimate-Linux-Mint-18" >> README.md
+# echo "# Project GithubTutorial" >> README.md
 # git init
 # git add README.md
 # git commit -m "first commit"
